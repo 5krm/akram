@@ -1,14 +1,19 @@
 # Anfaan Pharmaceutical Website
 
-A modern React + TypeScript project using Vite and Tailwind CSS. The site
-includes several pages demonstrating a full corporate website:
+This project showcases a modern React + TypeScript website using Vite and Tailwind CSS. 
+It now includes extra landing and marketing pages with basic SVG assets to illustrate 
+a more complete corporate presence.
 
 - Home with a hero section
+- Landing page with feature highlights
 - About
 - Services
 - Products
+- Team
+- Blog
 - Careers
 - Contact
+- Simple SVG assets for branding
 
 ## Available Scripts
 
